@@ -1,3 +1,3 @@
 # fmcg-lakehouse-databricks
 
-![Architecture Diagram](databricks_architecture_diagram.svg)
+![Architecture Diagram](fmcg_pipeline_architecture.svg)
